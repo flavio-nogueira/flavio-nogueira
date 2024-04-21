@@ -65,14 +65,12 @@ README.md
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=flavio-nogueira&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
-## Portfolio:
+## Meus Exemplos:
 - [ApiMinimal - Exemplo ](https://github.com/flavio-nogueira/ArquiteturaApiMinimal/tree/main)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+
 
 <details>
   <summary>🔥 Skills & Technologies</summary>
