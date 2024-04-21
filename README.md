@@ -69,7 +69,7 @@ README.md
 
 <!-- Portfolio -->
 ## Portfolio:
-- [ApiMinimal - Exemplo ]([https://github.com/VariableBee/EDA_Loggi](https://github.com/flavio-nogueira/ArquiteturaApiMinimal/tree/main))
+- [ApiMinimal - Exemplo ](https://github.com/flavio-nogueira/ArquiteturaApiMinimal/tree/main)
 - [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
 - [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
 - [C - Registration and query system](https://github.com/VariableBee/Cartorio)
